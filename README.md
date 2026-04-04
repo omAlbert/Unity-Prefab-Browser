@@ -8,6 +8,8 @@ A custom Unity Editor tool designed to speed up level design by providing quick 
 
 This tool provides a simple interface to organize and access prefabs by category directly inside the Unity Editor. It reduces the need to manually browse folders when building scenes.
 
+![Visual Prefab Browser: Categorized asset management and drag-and-drop workflow](Videos/PrefabBrowser_video.gif)
+
 ---
 
 ## Problem
