@@ -12,12 +12,6 @@ This tool provides a simple interface to organize and access prefabs by category
 
 ---
 
-## Problem
-
-In medium to large Unity projects, navigating through folders to find prefabs can slow down iteration and disrupt workflow.
-
----
-
 ## Solution
 
 A custom editor window that allows developers to:
@@ -35,6 +29,7 @@ A custom editor window that allows developers to:
 * Visual preview of prefabs (with fallback icon)
 * Tooltip display with prefab name on hover
 * Edit mode for adding and removing items
+* Persistent data between sessions
 
 ---
 
@@ -80,7 +75,3 @@ Tools/Prefab Browser
 * C#
 
 ---
-
-## Purpose
-
-This tool was created to improve workflow efficiency during scene creation and demonstrate custom editor tooling in Unity.
